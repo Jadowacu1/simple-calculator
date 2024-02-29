@@ -1,0 +1,35 @@
+.calculator{
+    width: auto;
+    height: auto;
+    
+}
+button{
+    width: 5%;
+    height: 30px;
+    background-color: rgba(108, 100, 89, 0.338);
+    border: 1px solid grey;
+    color: white;
+}
+input{
+    width: 15%;
+    height: 35px;
+}
+body{
+    background-color: skyblue;
+}button{
+    width: 5%;
+    height: 30px;
+    background-color: rgba(108, 100, 89, 0.338);
+    border: 1px solid grey;
+}
+input{
+    width: 15%;
+    height: 35px;
+}
+body{
+    background-color: rgb(146, 208, 233);
+    color: white;
+}
+#equal{
+    width: 15.6%;
+}
